@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Products
-permalink: /products
+permalink: /about
 section: Products
 intro_paragraph: |
   Sustainable products to help decrease your impact on the environment are

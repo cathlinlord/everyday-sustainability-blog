@@ -8,6 +8,8 @@ intro_paragraph: |
   coming soon!
 ---
 
+## Products
+
 ### Household and Personal Care Items
 
 These daily used items will help you decrease your environmental impact by

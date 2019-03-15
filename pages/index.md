@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to EverydaySustainability
+title: "Welcome"
 permalink: /
 section: home
 intro_paragraph: >

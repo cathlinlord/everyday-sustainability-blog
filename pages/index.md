@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Welcome"
-permalink: /
+permalink: /home
 section: home
 intro_paragraph: >
   EverydaySustainability wants to help you reduce your impact on the Earth!

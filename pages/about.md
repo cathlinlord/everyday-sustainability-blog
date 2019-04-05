@@ -10,17 +10,9 @@ intro_paragraph: |
 
 ### Household and Personal Care Items
 
-These daily used items will help you decrease your environmental impact by
-reducing the amount of waste you contribute to landfills. Check out These
-products that are regularly used around the world!
-
-#### Bamboo Toothbrush
-
-Bamboo toothbrushes are a simple way to decrease plastic use, since they are
-biodegradable!
-
-### On-the-Go Items
-
-Coming soon...water bottles, sporks, reusable to go wear.
-
-#### Sporks
+<ol>
+  <li><a href="https://lightmyfire.com/products/spork/spork-original/spork-original-bio-4-pack-nature?group=prod_prod_grp-s1%2F1032" target="_blank">Sporks</a></li>
+  <li><a href="https://www.kleankanteen.com/products/5-piece-straw-set-multi-color" target="_blank">Reusable Straws</a></li>
+  <li><a href="https://givingbrush.com/products/eco-friendly-giving-brush-1" target="_blank">Bamboo Toothbrushes</a></li>
+  <li><a href="https://earthhero.com/products/travel/bagito-reusable-produce-bags-mixed-4pk/" target="_blank">Reusable Grocery Bags</a></li>
+</ol>

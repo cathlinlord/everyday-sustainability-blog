@@ -15,5 +15,9 @@ is highly sustainable because bamboo is the fastest growing plant on earth!
 Giving Brush products are made free of additive chemicals, is non-toxic, and
 vegan. Purchase your Giving Brush today to help them reach supplying ¼ of the
 world with biodegradable toothbrushes and start to minimize your footprint!
+<ol>
+  <li><a href="https://givingbrush.com/products/eco-friendly-giving-brush-1" target="_blank">Get yours now!</a></li>
+</ol>
+
 
 ![Toothbrushes Photo](assets/img/uploads/toothbrushes.jpg)

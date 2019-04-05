@@ -17,4 +17,4 @@ vegan. Purchase your Giving Brush today to help them reach supplying ¼ of the
 world with biodegradable toothbrushes and start to minimize your footprint!
 
 ![Netlify CMS Screenshot](/assets/img/uploads/screenshot-editor.jpg)
-![Toothbrushes Photo](assets/img/uploads/toothbrushes.jpg)
+![Toothbrushes Photo](assets/img/uploads/toothbrush.jpg)

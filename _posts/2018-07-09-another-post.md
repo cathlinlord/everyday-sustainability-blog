@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bamboo Toothbrushes
-author: john_doe
+author: cathlin_lord
 date: '2019-04-01 6:00:00'
 categories: misc
 ---

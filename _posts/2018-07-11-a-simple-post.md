@@ -23,4 +23,4 @@ Sea Turtles!
   <li><a href="https://www.kleankanteen.com/products/5-piece-straw-set-multi-color" target="_blank">Get yours now!</a></li>
 </ol>
 
-![Reusable Straws](assets/img/uploads/reusable_straws.jpg)
+![Reusable Straws](images/reusable_straws.jpg)

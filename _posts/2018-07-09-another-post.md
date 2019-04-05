@@ -2,7 +2,7 @@
 layout: post
 title: Bamboo Toothbrushes
 author: john_doe
-date: '2019-01-04 6:00:00'
+date: '2019-04-01 6:00:00'
 categories: misc
 ---
 The company, the Giving Brush, is taking strides to promote plastic free

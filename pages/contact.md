@@ -1,8 +1,8 @@
 ---
-layout: products
-title: Products
-permalink: /products
-section: products
+layout: contact
+title: Contact Us
+permalink: /contact
+section: contact
 intro_paragraph: |-
 
   The contact form on this page uses

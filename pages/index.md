@@ -8,3 +8,4 @@ intro_paragraph: >
   Check out our blog posts, featuring useful products to become more
   sustainable in everyday life.
 ---
+![Leaf](/img/uploads/leaf.png)

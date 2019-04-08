@@ -4,6 +4,6 @@ title: EverydaySustainability Blog
 permalink: /blog
 section: blog
 intro_paragraph: >
-  Coming soon... blog posts on what is happening internationally to promote
-  sustainability in an everyday fashion. 
+  Check out our blog posts to learn about international actions to make
+  everyday life more sustainable!
 ---

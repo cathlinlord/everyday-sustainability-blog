@@ -20,4 +20,4 @@ world with biodegradable toothbrushes and start to minimize your footprint!
 </ol>
 
 
-![Toothbrushes Photo](assets/img/uploads/toothbrushes.jpg)
+![Toothbrushes Photo](/img/uploads/toothbrushes.jpg)

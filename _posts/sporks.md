@@ -24,4 +24,4 @@ To reach the same effect as the toothbrushes, you can also find bamboo sporks!)
   <li><a href="https://lightmyfire.com/products/spork/spork-original/spork-original-bio-4-pack-nature?group=prod_prod_grp-s1%2F1032" target="_blank">Get yours now!</a></li>
 </ol>
 
-![Spork Photo](assets/img/uploads/spork.jpg)
+![Spork Photo](/img/uploads/spork.jpg)

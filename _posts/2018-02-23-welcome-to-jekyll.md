@@ -18,4 +18,4 @@ save the turtles!
   <li><a href="https://earthhero.com/products/travel/bagito-reusable-produce-bags-mixed-4pk/" target="_blank">Get yours now!</a></li>
 </ol>
 
-![Grocery Bags](/img/uploads/grocerybags.jpg)
+![Grocery Bags](/img/uploads/grocerybags.png)

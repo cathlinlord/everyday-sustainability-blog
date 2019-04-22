@@ -24,3 +24,12 @@ Sea Turtles!
 </ol>
 
 ![Reusable Straws](/img/uploads/reusable_straws.jpg)
+<form action="http://localhost:9000/hooks/add-comment">
+  <input type="hidden" name="reply_to" value="{{ include.reply_to }}" />
+  <div style="clear: both; padding-top: .5em;">Name</div>
+  <input type="text" name="author" />
+  <input type="text" name="email" />
+  <div>Comment</div>
+  <textarea name="text"></textarea>
+  <input type="submit" value="Submit" />
+</form>

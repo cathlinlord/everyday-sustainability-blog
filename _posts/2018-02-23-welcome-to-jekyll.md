@@ -23,7 +23,6 @@ save the turtles!
   <input type="hidden" name="reply_to" value="{{ include.reply_to }}" />
   <div style="clear: both; padding-top: .5em;">Name</div>
   <input type="text" name="author" />
-  <div>E-mail</div>
   <input type="text" name="email" />
   <div>Comment</div>
   <textarea name="text"></textarea>

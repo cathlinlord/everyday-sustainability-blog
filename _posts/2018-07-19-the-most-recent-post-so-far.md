@@ -25,6 +25,7 @@ To reach the same effect as the toothbrushes, you can also find bamboo sporks!)
 </ol>
 
 ![Spork Photo](/img/uploads/spork.jpg)
+Let us know what you think of this product!
 <form action="http://localhost:9000/hooks/add-comment">
   <input type="hidden" name="reply_to" value="{{ include.reply_to }}" />
   <div style="clear: both; padding-top: .5em;">Name</div>

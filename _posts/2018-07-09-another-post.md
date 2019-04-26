@@ -21,6 +21,7 @@ world with biodegradable toothbrushes and start to minimize your footprint!
 
 
 ![Toothbrushes Photo](/img/uploads/toothbrushes.jpg)
+What do you think about these toothbrushes?
 <form action="http://localhost:9000/hooks/add-comment">
   <input type="hidden" name="reply_to" value="{{ include.reply_to }}" />
   <div style="clear: both; padding-top: .5em;">Name</div>

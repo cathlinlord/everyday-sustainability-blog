@@ -19,6 +19,7 @@ save the turtles!
 </ol>
 
 ![Grocery Bags](/img/uploads/grocerybags.png)
+Do you like these bags? Let us know!
 <form action="http://localhost:9000/hooks/add-comment">
   <input type="hidden" name="reply_to" value="{{ include.reply_to }}" />
   <div style="clear: both; padding-top: .5em;">Name</div>

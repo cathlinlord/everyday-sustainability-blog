@@ -1,18 +1,25 @@
 ---
 layout: page
-title: About
+title: Products
 permalink: /about
-section: about
+section: Products
 intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
+  Sustainable products to help decrease your impact on the environment are
+  coming soon!
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### A heading
+### Personal Care Items
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<ol>
+  <li><a href="https://givingbrush.com/products/eco-friendly-giving-brush-1" target="_blank">Bamboo Toothbrushes</a></li>
+</ol>
 
-#### Another heading
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Items for on the Go
+
+<ol>
+  <li><a href="https://lightmyfire.com/products/spork/spork-original/spork-original-bio-4-pack-nature?group=prod_prod_grp-s1%2F1032" target="_blank">Sporks</a></li>
+  <li><a href="https://www.kleankanteen.com/products/5-piece-straw-set-multi-color" target="_blank">Reusable Straws</a></li>
+  <li><a href="https://earthhero.com/products/travel/bagito-reusable-produce-bags-mixed-4pk/" target="_blank">Reusable Grocery Bags</a></li>
+</ol>

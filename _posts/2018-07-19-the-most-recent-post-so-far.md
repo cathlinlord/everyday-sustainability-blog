@@ -1,9 +1,36 @@
 ---
 layout: post
-title: The most recent post so far
-author: john_doe
-date: '2018-07-19 10:07:32'
+title: Spork it up!
+author: cathlin_lord
+date: '2019-04-3 10:07:32'
 intro_paragraph: ''
 categories: misc
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumo.
+For me and many others, dining has been a large contributor to my waste.
+Being a college student without a kitchen, most of my food is from dining halls,
+which some of provide disposable utensils for when purchasing on-the-go meals.
+Students, professionals, and take-out eaters are often contributing to the
+plastic build up in landfills through once-use utensils and it’s time to make
+this come to an end! The solution? Sporks! Sporks! Sporks! Apparently KFC has
+been doing something right, now it’s just time to make the sporks reusable. It’s
+every utensil you could need for a meal in one and Light My Fire of Sweden is
+here to provide. This company provides multiple types of sporks all made from
+bioplastics. I know, that contains the word “plastic” in it, but that’s okay!
+Bioplastic can mean two things, either bio-based or biodegradable. This meaning
+they are plant based products and can be recycled or broken down by natural
+material. Order your spork today, use daily, clean often, and eat some food!
+To reach the same effect as the toothbrushes, you can also find bamboo sporks!)
+<ol>
+  <li><a href="https://lightmyfire.com/products/spork/spork-original/spork-original-bio-4-pack-nature?group=prod_prod_grp-s1%2F1032" target="_blank">Get yours now!</a></li>
+</ol>
+
+![Spork Photo](/img/uploads/spork.jpg)
+<form action="http://localhost:9000/hooks/add-comment">
+  <input type="hidden" name="reply_to" value="{{ include.reply_to }}" />
+  <div style="clear: both; padding-top: .5em;">Name</div>
+  <input type="text" name="author" />
+  <input type="text" name="email" />
+  <div>Comment</div>
+  <textarea name="text"></textarea>
+  <input type="submit" value="Submit" />
+</form>

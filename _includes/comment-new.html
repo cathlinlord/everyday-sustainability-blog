@@ -6,14 +6,11 @@
     <input name="comment-site" type="hidden" value="{{ site.url }}">
     <textarea name="message" id="message" placeholder="Continue the discussion."></textarea>
 
-    <label for="name">Name/alias <span>(Required, displayed)</span></label>
+    <label for="name">Name <span>(Required)</span></label>
     <input type="text" name="name" id="name" placeholder="Name" />
 
-    <label for="email">Email <span>(Required, not shown)</span></label>
+    <label for="email">Email <span>(Required)</span></label>
     <input type="text" name="email" id="email" placeholder="myemail@somedomain.com" />
-
-    <label for="url">Website <span>(Optional, displayed)</span></label>
-    <input type="text" name="url" id="url" placeholder="https://mywebsite.com" />
 
     <button onclick="setupForm()" type="button" class="btn btn-primary" id="commentbutton">Leave response</button>
   </fieldset>

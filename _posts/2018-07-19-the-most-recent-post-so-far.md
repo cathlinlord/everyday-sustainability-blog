@@ -26,12 +26,6 @@ To reach the same effect as the toothbrushes, you can also find bamboo sporks!)
 
 ![Spork Photo](/img/uploads/spork.jpg)
 Let us know what you think of this product!
-<form action="http://localhost:9000/hooks/add-comment">
-  <input type="hidden" name="reply_to" value="{{ include.reply_to }}" />
-  <div style="clear: both; padding-top: .5em;">Name</div>
-  <input type="text" name="author" />
-  <input type="text" name="email" />
-  <div>Comment</div>
-  <textarea name="text"></textarea>
-  <input type="submit" value="Submit" />
-</form>
+{% include comment.html %}
+{% include comment-new.html %}
+{% include comments.html %}

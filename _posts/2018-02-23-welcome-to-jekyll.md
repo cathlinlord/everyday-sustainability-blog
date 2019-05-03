@@ -29,3 +29,6 @@ Do you like these bags? Let us know!
   <textarea name="text"></textarea>
   <input type="submit" value="Submit" />
 </form>
+{% include comment.html %}
+{% include comment-new.html %}
+{% include comments.html %}
